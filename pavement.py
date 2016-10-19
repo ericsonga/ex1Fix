@@ -37,6 +37,7 @@ options(
                        'loglevel': 10,
                        'course_url':master_url,
                        'use_services': 'true',
+                       'basecourse': 'Ex1Fix',
                        'python3': 'true'
                         }
     )
